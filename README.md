@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/palakv07/Leetcode-Revision/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0633-sum-of-square-numbers) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palakv07/Leetcode-Revision/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/palakv07/Leetcode-Revision/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/palakv07/Leetcode-Revision/tree/master/1572-matrix-diagonal-sum) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palakv07/Leetcode-Revision/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/palakv07/Leetcode-Revision/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/palakv07/Leetcode-Revision/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/palakv07/Leetcode-Revision/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0164-maximum-gap](https://github.com/palakv07/Leetcode-Revision/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0628-maximum-product-of-three-numbers) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/palakv07/Leetcode-Revision/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
