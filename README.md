@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/palakv07/Leetcode-Revision/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/palakv07/Leetcode-Revision/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/palakv07/Leetcode-Revision/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/palakv07/Leetcode-Revision/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0628-maximum-product-of-three-numbers) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/palakv07/Leetcode-Revision/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/palakv07/Leetcode-Revision/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/palakv07/Leetcode-Revision/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/palakv07/Leetcode-Revision/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/palakv07/Leetcode-Revision/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
