@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/palakv07/Leetcode-Revision/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0633-sum-of-square-numbers) |
+| [1227-airplane-seat-assignment-probability](https://github.com/palakv07/Leetcode-Revision/tree/master/1227-airplane-seat-assignment-probability) |
 | [1512-number-of-good-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/1512-number-of-good-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/palakv07/Leetcode-Revision/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/palakv07/Leetcode-Revision/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/palakv07/Leetcode-Revision/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/palakv07/Leetcode-Revision/tree/master/0070-climbing-stairs) |
+| [1227-airplane-seat-assignment-probability](https://github.com/palakv07/Leetcode-Revision/tree/master/1227-airplane-seat-assignment-probability) |
 ## Matrix
 |  |
 | ------- |
@@ -125,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1480-running-sum-of-1d-array) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/palakv07/Leetcode-Revision/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/palakv07/Leetcode-Revision/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
