@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0065-valid-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/palakv07/Leetcode-Revision/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/palakv07/Leetcode-Revision/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/palakv07/Leetcode-Revision/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -43,12 +44,15 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/palakv07/Leetcode-Revision/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/palakv07/Leetcode-Revision/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/palakv07/Leetcode-Revision/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/palakv07/Leetcode-Revision/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/palakv07/Leetcode-Revision/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/palakv07/Leetcode-Revision/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
