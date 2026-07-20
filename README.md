@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/palakv07/Leetcode-Revision/tree/master/0043-multiply-strings) |
+| [1260-shift-2d-grid](https://github.com/palakv07/Leetcode-Revision/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palakv07/Leetcode-Revision/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0628-maximum-product-of-three-numbers) |
 | [0766-toeplitz-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0766-toeplitz-matrix) |
 | [0912-sort-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0912-sort-an-array) |
+| [1260-shift-2d-grid](https://github.com/palakv07/Leetcode-Revision/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/palakv07/Leetcode-Revision/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/1512-number-of-good-pairs) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0766-toeplitz-matrix) |
+| [1260-shift-2d-grid](https://github.com/palakv07/Leetcode-Revision/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/palakv07/Leetcode-Revision/tree/master/1572-matrix-diagonal-sum) |
 ## Combinatorics
 |  |
