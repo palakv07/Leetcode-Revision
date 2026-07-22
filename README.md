@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/palakv07/Leetcode-Revision/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/palakv07/Leetcode-Revision/tree/master/0316-remove-duplicate-letters) |
+| [0397-integer-replacement](https://github.com/palakv07/Leetcode-Revision/tree/master/0397-integer-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/palakv07/Leetcode-Revision/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Monotonic Stack
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/palakv07/Leetcode-Revision/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/palakv07/Leetcode-Revision/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/palakv07/Leetcode-Revision/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/palakv07/Leetcode-Revision/tree/master/0397-integer-replacement) |
 | [1227-airplane-seat-assignment-probability](https://github.com/palakv07/Leetcode-Revision/tree/master/1227-airplane-seat-assignment-probability) |
 ## Matrix
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/palakv07/Leetcode-Revision/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/palakv07/Leetcode-Revision/tree/master/0397-integer-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/palakv07/Leetcode-Revision/tree/master/0371-sum-of-two-integers) |
+| [0397-integer-replacement](https://github.com/palakv07/Leetcode-Revision/tree/master/0397-integer-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
