@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/palakv07/Leetcode-Revision/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/palakv07/Leetcode-Revision/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/palakv07/Leetcode-Revision/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0633-sum-of-square-numbers) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/palakv07/Leetcode-Revision/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0628-maximum-product-of-three-numbers) |
 | [0766-toeplitz-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0766-toeplitz-matrix) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/palakv07/Leetcode-Revision/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/palakv07/Leetcode-Revision/tree/master/0016-3sum-closest) |
 | [0164-maximum-gap](https://github.com/palakv07/Leetcode-Revision/tree/master/0164-maximum-gap) |
 | [0229-majority-element-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0912-sort-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/palakv07/Leetcode-Revision/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palakv07/Leetcode-Revision/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0633-sum-of-square-numbers) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/palakv07/Leetcode-Revision/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -191,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/palakv07/Leetcode-Revision/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/palakv07/Leetcode-Revision/tree/master/0371-sum-of-two-integers) |
 ## Divide and Conquer
