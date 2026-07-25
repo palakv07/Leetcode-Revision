@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0633-sum-of-square-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0633-sum-of-square-numbers) |
 | [1227-airplane-seat-assignment-probability](https://github.com/palakv07/Leetcode-Revision/tree/master/1227-airplane-seat-assignment-probability) |
 | [1512-number-of-good-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/1512-number-of-good-pairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/palakv07/Leetcode-Revision/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/palakv07/Leetcode-Revision/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0912-sort-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/palakv07/Leetcode-Revision/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3536-maximum-product-of-two-digits](https://github.com/palakv07/Leetcode-Revision/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
