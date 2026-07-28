@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/palakv07/Leetcode-Revision/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/palakv07/Leetcode-Revision/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/palakv07/Leetcode-Revision/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0633-sum-of-square-numbers) |
@@ -260,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/palakv07/Leetcode-Revision/tree/master/1025-divisor-game) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/palakv07/Leetcode-Revision/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
