@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1227-airplane-seat-assignment-probability](https://github.com/palakv07/Leetcode-Revision/tree/master/1227-airplane-seat-assignment-probability) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/palakv07/Leetcode-Revision/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/1512-number-of-good-pairs) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/palakv07/Leetcode-Revision/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/palakv07/Leetcode-Revision/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/palakv07/Leetcode-Revision/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/palakv07/Leetcode-Revision/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/palakv07/Leetcode-Revision/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/palakv07/Leetcode-Revision/tree/master/1260-shift-2d-grid) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/palakv07/Leetcode-Revision/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palakv07/Leetcode-Revision/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/palakv07/Leetcode-Revision/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/palakv07/Leetcode-Revision/tree/master/1572-matrix-diagonal-sum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/palakv07/Leetcode-Revision/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palakv07/Leetcode-Revision/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/palakv07/Leetcode-Revision/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -285,4 +288,9 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0326-power-of-three](https://github.com/palakv07/Leetcode-Revision/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/palakv07/Leetcode-Revision/tree/master/0342-power-of-four) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/palakv07/Leetcode-Revision/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/palakv07/Leetcode-Revision/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
