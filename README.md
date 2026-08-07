@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/palakv07/Leetcode-Revision/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/palakv07/Leetcode-Revision/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/palakv07/Leetcode-Revision/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0912-sort-an-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/palakv07/Leetcode-Revision/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1480-running-sum-of-1d-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/palakv07/Leetcode-Revision/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Brainteaser
