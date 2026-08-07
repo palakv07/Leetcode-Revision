@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0766-toeplitz-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/palakv07/Leetcode-Revision/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0912-sort-an-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1260-shift-2d-grid](https://github.com/palakv07/Leetcode-Revision/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1480-running-sum-of-1d-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/palakv07/Leetcode-Revision/tree/master/3731-find-missing-elements) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/palakv07/Leetcode-Revision/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/palakv07/Leetcode-Revision/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1480-running-sum-of-1d-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/palakv07/Leetcode-Revision/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Brainteaser
