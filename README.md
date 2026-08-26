@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0065-valid-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/palakv07/Leetcode-Revision/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/palakv07/Leetcode-Revision/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/palakv07/Leetcode-Revision/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/palakv07/Leetcode-Revision/tree/master/0316-remove-duplicate-letters) |
 | [0709-to-lower-case](https://github.com/palakv07/Leetcode-Revision/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/palakv07/Leetcode-Revision/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/palakv07/Leetcode-Revision/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/palakv07/Leetcode-Revision/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/palakv07/Leetcode-Revision/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/palakv07/Leetcode-Revision/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/palakv07/Leetcode-Revision/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/palakv07/Leetcode-Revision/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0912-sort-an-array) |
