@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/palakv07/Leetcode-Revision/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/palakv07/Leetcode-Revision/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/palakv07/Leetcode-Revision/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/palakv07/Leetcode-Revision/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0633-sum-of-square-numbers) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/palakv07/Leetcode-Revision/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/palakv07/Leetcode-Revision/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/palakv07/Leetcode-Revision/tree/master/0316-remove-duplicate-letters) |
+| [0415-add-strings](https://github.com/palakv07/Leetcode-Revision/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/palakv07/Leetcode-Revision/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/palakv07/Leetcode-Revision/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/palakv07/Leetcode-Revision/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/palakv07/Leetcode-Revision/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/palakv07/Leetcode-Revision/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/palakv07/Leetcode-Revision/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/palakv07/Leetcode-Revision/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/palakv07/Leetcode-Revision/tree/master/1823-find-the-winner-of-the-circular-game) |
