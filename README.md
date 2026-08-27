@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0065-valid-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/palakv07/Leetcode-Revision/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/palakv07/Leetcode-Revision/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/palakv07/Leetcode-Revision/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/palakv07/Leetcode-Revision/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/palakv07/Leetcode-Revision/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/palakv07/Leetcode-Revision/tree/master/0383-ransom-note) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/palakv07/Leetcode-Revision/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/palakv07/Leetcode-Revision/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/palakv07/Leetcode-Revision/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/palakv07/Leetcode-Revision/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/palakv07/Leetcode-Revision/tree/master/0242-valid-anagram) |
