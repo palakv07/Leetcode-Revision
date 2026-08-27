@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/palakv07/Leetcode-Revision/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/palakv07/Leetcode-Revision/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/palakv07/Leetcode-Revision/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/palakv07/Leetcode-Revision/tree/master/0062-unique-paths) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/palakv07/Leetcode-Revision/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/palakv07/Leetcode-Revision/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/palakv07/Leetcode-Revision/tree/master/0067-add-binary) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/palakv07/Leetcode-Revision/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/palakv07/Leetcode-Revision/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/palakv07/Leetcode-Revision/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/palakv07/Leetcode-Revision/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0202-happy-number) |
