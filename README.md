@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/palakv07/Leetcode-Revision/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/palakv07/Leetcode-Revision/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0633-sum-of-square-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/palakv07/Leetcode-Revision/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/palakv07/Leetcode-Revision/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0560-subarray-sum-equals-k) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/palakv07/Leetcode-Revision/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/palakv07/Leetcode-Revision/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/palakv07/Leetcode-Revision/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/palakv07/Leetcode-Revision/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/palakv07/Leetcode-Revision/tree/master/0389-find-the-difference) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/palakv07/Leetcode-Revision/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/palakv07/Leetcode-Revision/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/palakv07/Leetcode-Revision/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0912-sort-an-array) |
@@ -238,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palakv07/Leetcode-Revision/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/palakv07/Leetcode-Revision/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0633-sum-of-square-numbers) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/palakv07/Leetcode-Revision/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
