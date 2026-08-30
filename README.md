@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/palakv07/Leetcode-Revision/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palakv07/Leetcode-Revision/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/palakv07/Leetcode-Revision/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/palakv07/Leetcode-Revision/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3731-find-missing-elements](https://github.com/palakv07/Leetcode-Revision/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/1512-number-of-good-pairs) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/palakv07/Leetcode-Revision/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/palakv07/Leetcode-Revision/tree/master/3731-find-missing-elements) |
 ## Counting
