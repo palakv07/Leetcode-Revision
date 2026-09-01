@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/palakv07/Leetcode-Revision/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/palakv07/Leetcode-Revision/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/palakv07/Leetcode-Revision/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/palakv07/Leetcode-Revision/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palakv07/Leetcode-Revision/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0189-rotate-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/palakv07/Leetcode-Revision/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/palakv07/Leetcode-Revision/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/palakv07/Leetcode-Revision/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/palakv07/Leetcode-Revision/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/palakv07/Leetcode-Revision/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/palakv07/Leetcode-Revision/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/palakv07/Leetcode-Revision/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/palakv07/Leetcode-Revision/tree/master/0217-contains-duplicate) |
