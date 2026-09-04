@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/palakv07/Leetcode-Revision/tree/master/0643-maximum-average-subarray-i) |
+| [0697-degree-of-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/palakv07/Leetcode-Revision/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0766-toeplitz-matrix) |
 | [0877-stone-game](https://github.com/palakv07/Leetcode-Revision/tree/master/0877-stone-game) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/palakv07/Leetcode-Revision/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0560-subarray-sum-equals-k) |
+| [0697-degree-of-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0697-degree-of-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/1512-number-of-good-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/palakv07/Leetcode-Revision/tree/master/2956-find-common-elements-between-two-arrays) |
