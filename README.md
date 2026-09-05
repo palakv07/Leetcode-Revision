@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/palakv07/Leetcode-Revision/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/palakv07/Leetcode-Revision/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1512-number-of-good-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/1512-number-of-good-pairs) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/palakv07/Leetcode-Revision/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/palakv07/Leetcode-Revision/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/palakv07/Leetcode-Revision/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/palakv07/Leetcode-Revision/tree/master/3345-smallest-divisible-digit-product-i) |
