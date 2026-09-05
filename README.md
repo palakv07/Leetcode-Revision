@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3731-find-missing-elements](https://github.com/palakv07/Leetcode-Revision/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/palakv07/Leetcode-Revision/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1480-running-sum-of-1d-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/palakv07/Leetcode-Revision/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [3904-smallest-stable-index-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/3904-smallest-stable-index-ii) |
 ## Brainteaser
 |  |
 | ------- |
