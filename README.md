@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/palakv07/Leetcode-Revision/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/palakv07/Leetcode-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/palakv07/Leetcode-Revision/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/palakv07/Leetcode-Revision/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/palakv07/Leetcode-Revision/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/palakv07/Leetcode-Revision/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/palakv07/Leetcode-Revision/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0397-integer-replacement](https://github.com/palakv07/Leetcode-Revision/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/palakv07/Leetcode-Revision/tree/master/0877-stone-game) |
