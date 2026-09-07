@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1260-shift-2d-grid](https://github.com/palakv07/Leetcode-Revision/tree/master/1260-shift-2d-grid) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/palakv07/Leetcode-Revision/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/palakv07/Leetcode-Revision/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/palakv07/Leetcode-Revision/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/palakv07/Leetcode-Revision/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/palakv07/Leetcode-Revision/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Game Theory
 |  |
