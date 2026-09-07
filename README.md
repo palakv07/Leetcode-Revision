@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/palakv07/Leetcode-Revision/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/palakv07/Leetcode-Revision/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/palakv07/Leetcode-Revision/tree/master/0709-to-lower-case) |
+| [0940-distinct-subsequences-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/palakv07/Leetcode-Revision/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/palakv07/Leetcode-Revision/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/palakv07/Leetcode-Revision/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0397-integer-replacement](https://github.com/palakv07/Leetcode-Revision/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/palakv07/Leetcode-Revision/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/palakv07/Leetcode-Revision/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/palakv07/Leetcode-Revision/tree/master/1227-airplane-seat-assignment-probability) |
 ## Matrix
