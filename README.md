@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/palakv07/Leetcode-Revision/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1052-grumpy-bookstore-owner](https://github.com/palakv07/Leetcode-Revision/tree/master/1052-grumpy-bookstore-owner) |
 | [1260-shift-2d-grid](https://github.com/palakv07/Leetcode-Revision/tree/master/1260-shift-2d-grid) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/palakv07/Leetcode-Revision/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/palakv07/Leetcode-Revision/tree/master/0643-maximum-average-subarray-i) |
+| [1052-grumpy-bookstore-owner](https://github.com/palakv07/Leetcode-Revision/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/palakv07/Leetcode-Revision/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/palakv07/Leetcode-Revision/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/palakv07/Leetcode-Revision/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
