@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1512-number-of-good-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/palakv07/Leetcode-Revision/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/palakv07/Leetcode-Revision/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1952-three-divisors](https://github.com/palakv07/Leetcode-Revision/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/palakv07/Leetcode-Revision/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/palakv07/Leetcode-Revision/tree/master/2427-number-of-common-factors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/palakv07/Leetcode-Revision/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/palakv07/Leetcode-Revision/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/palakv07/Leetcode-Revision/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/palakv07/Leetcode-Revision/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/palakv07/Leetcode-Revision/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/palakv07/Leetcode-Revision/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/palakv07/Leetcode-Revision/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/palakv07/Leetcode-Revision/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/palakv07/Leetcode-Revision/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/palakv07/Leetcode-Revision/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/palakv07/Leetcode-Revision/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -446,4 +449,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/palakv07/Leetcode-Revision/tree/master/2427-number-of-common-factors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/palakv07/Leetcode-Revision/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/palakv07/Leetcode-Revision/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
