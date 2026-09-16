@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1227-airplane-seat-assignment-probability](https://github.com/palakv07/Leetcode-Revision/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/palakv07/Leetcode-Revision/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/palakv07/Leetcode-Revision/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1492-the-kth-factor-of-n](https://github.com/palakv07/Leetcode-Revision/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/palakv07/Leetcode-Revision/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/palakv07/Leetcode-Revision/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/palakv07/Leetcode-Revision/tree/master/0204-count-primes) |
+| [1492-the-kth-factor-of-n](https://github.com/palakv07/Leetcode-Revision/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/palakv07/Leetcode-Revision/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/palakv07/Leetcode-Revision/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/palakv07/Leetcode-Revision/tree/master/2427-number-of-common-factors) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prime Factorization
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/palakv07/Leetcode-Revision/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/palakv07/Leetcode-Revision/tree/master/1952-three-divisors) |
 ## Sieve Theory
 |  |
