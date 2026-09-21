@@ -460,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/palakv07/Leetcode-Revision/tree/master/1952-three-divisors) |
+## Database
+|  |
+| ------- |
+| [1527-patients-with-a-condition](https://github.com/palakv07/Leetcode-Revision/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
