@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0577-employee-bonus](https://github.com/palakv07/Leetcode-Revision/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/palakv07/Leetcode-Revision/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/palakv07/Leetcode-Revision/tree/master/0595-big-countries) |
+| [0607-sales-person](https://github.com/palakv07/Leetcode-Revision/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/palakv07/Leetcode-Revision/tree/master/0620-not-boring-movies) |
 | [1527-patients-with-a-condition](https://github.com/palakv07/Leetcode-Revision/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
