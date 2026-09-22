@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0181-employees-earning-more-than-their-managers](https://github.com/palakv07/Leetcode-Revision/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/palakv07/Leetcode-Revision/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/palakv07/Leetcode-Revision/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/palakv07/Leetcode-Revision/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/palakv07/Leetcode-Revision/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/palakv07/Leetcode-Revision/tree/master/0620-not-boring-movies) |
 | [1527-patients-with-a-condition](https://github.com/palakv07/Leetcode-Revision/tree/master/1527-patients-with-a-condition) |
