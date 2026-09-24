@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/palakv07/Leetcode-Revision/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/palakv07/Leetcode-Revision/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/palakv07/Leetcode-Revision/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/palakv07/Leetcode-Revision/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/palakv07/Leetcode-Revision/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/palakv07/Leetcode-Revision/tree/master/3870-count-commas-in-range) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/palakv07/Leetcode-Revision/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/palakv07/Leetcode-Revision/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/palakv07/Leetcode-Revision/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/palakv07/Leetcode-Revision/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/palakv07/Leetcode-Revision/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/palakv07/Leetcode-Revision/tree/master/3875-construct-uniform-parity-array-i) |
