@@ -479,5 +479,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0595-big-countries](https://github.com/palakv07/Leetcode-Revision/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/palakv07/Leetcode-Revision/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/palakv07/Leetcode-Revision/tree/master/0620-not-boring-movies) |
+| [1045-customers-who-bought-all-products](https://github.com/palakv07/Leetcode-Revision/tree/master/1045-customers-who-bought-all-products) |
 | [1527-patients-with-a-condition](https://github.com/palakv07/Leetcode-Revision/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
