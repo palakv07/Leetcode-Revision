@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0326-power-of-three](https://github.com/palakv07/Leetcode-Revision/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/palakv07/Leetcode-Revision/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/palakv07/Leetcode-Revision/tree/master/0371-sum-of-two-integers) |
+| [0390-elimination-game](https://github.com/palakv07/Leetcode-Revision/tree/master/0390-elimination-game) |
 | [0415-add-strings](https://github.com/palakv07/Leetcode-Revision/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/palakv07/Leetcode-Revision/tree/master/0628-maximum-product-of-three-numbers) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/palakv07/Leetcode-Revision/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/palakv07/Leetcode-Revision/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/palakv07/Leetcode-Revision/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/palakv07/Leetcode-Revision/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/palakv07/Leetcode-Revision/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
