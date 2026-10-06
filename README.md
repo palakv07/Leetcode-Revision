@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/palakv07/Leetcode-Revision/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/palakv07/Leetcode-Revision/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/palakv07/Leetcode-Revision/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/palakv07/Leetcode-Revision/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0088-merge-sorted-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/palakv07/Leetcode-Revision/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/palakv07/Leetcode-Revision/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/palakv07/Leetcode-Revision/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/palakv07/Leetcode-Revision/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/palakv07/Leetcode-Revision/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0202-happy-number) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/palakv07/Leetcode-Revision/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/palakv07/Leetcode-Revision/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/palakv07/Leetcode-Revision/tree/master/1260-shift-2d-grid) |
