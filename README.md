@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/palakv07/Leetcode-Revision/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/palakv07/Leetcode-Revision/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/palakv07/Leetcode-Revision/tree/master/0303-range-sum-query-immutable) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/palakv07/Leetcode-Revision/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palakv07/Leetcode-Revision/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/palakv07/Leetcode-Revision/tree/master/0349-intersection-of-two-arrays) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/palakv07/Leetcode-Revision/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/palakv07/Leetcode-Revision/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0766-toeplitz-matrix) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/palakv07/Leetcode-Revision/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/palakv07/Leetcode-Revision/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/palakv07/Leetcode-Revision/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0912-sort-an-array) |
 ## Union-Find
 |  |
