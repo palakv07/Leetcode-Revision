@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/palakv07/Leetcode-Revision/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/palakv07/Leetcode-Revision/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/palakv07/Leetcode-Revision/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/palakv07/Leetcode-Revision/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/palakv07/Leetcode-Revision/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/palakv07/Leetcode-Revision/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/palakv07/Leetcode-Revision/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/palakv07/Leetcode-Revision/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0566-reshape-the-matrix) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/palakv07/Leetcode-Revision/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/palakv07/Leetcode-Revision/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/palakv07/Leetcode-Revision/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/palakv07/Leetcode-Revision/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/palakv07/Leetcode-Revision/tree/master/1260-shift-2d-grid) |
