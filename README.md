@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/palakv07/Leetcode-Revision/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/palakv07/Leetcode-Revision/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/palakv07/Leetcode-Revision/tree/master/0709-to-lower-case) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/palakv07/Leetcode-Revision/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/palakv07/Leetcode-Revision/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/palakv07/Leetcode-Revision/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/palakv07/Leetcode-Revision/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/palakv07/Leetcode-Revision/tree/master/0316-remove-duplicate-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/palakv07/Leetcode-Revision/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/palakv07/Leetcode-Revision/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0316-remove-duplicate-letters](https://github.com/palakv07/Leetcode-Revision/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/palakv07/Leetcode-Revision/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/palakv07/Leetcode-Revision/tree/master/0409-longest-palindrome) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/palakv07/Leetcode-Revision/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/palakv07/Leetcode-Revision/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/palakv07/Leetcode-Revision/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/palakv07/Leetcode-Revision/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -501,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/palakv07/Leetcode-Revision/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1070-product-sales-analysis-iii](https://github.com/palakv07/Leetcode-Revision/tree/master/1070-product-sales-analysis-iii) |
 | [1527-patients-with-a-condition](https://github.com/palakv07/Leetcode-Revision/tree/master/1527-patients-with-a-condition) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/palakv07/Leetcode-Revision/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
