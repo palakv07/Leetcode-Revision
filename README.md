@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/palakv07/Leetcode-Revision/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/palakv07/Leetcode-Revision/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/palakv07/Leetcode-Revision/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/palakv07/Leetcode-Revision/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/palakv07/Leetcode-Revision/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/palakv07/Leetcode-Revision/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/palakv07/Leetcode-Revision/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/palakv07/Leetcode-Revision/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/palakv07/Leetcode-Revision/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/palakv07/Leetcode-Revision/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/palakv07/Leetcode-Revision/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/palakv07/Leetcode-Revision/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/palakv07/Leetcode-Revision/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
