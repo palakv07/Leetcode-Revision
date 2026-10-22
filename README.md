@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/palakv07/Leetcode-Revision/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/palakv07/Leetcode-Revision/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/palakv07/Leetcode-Revision/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/palakv07/Leetcode-Revision/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/palakv07/Leetcode-Revision/tree/master/0067-add-binary) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/palakv07/Leetcode-Revision/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/palakv07/Leetcode-Revision/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/palakv07/Leetcode-Revision/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/palakv07/Leetcode-Revision/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/palakv07/Leetcode-Revision/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/palakv07/Leetcode-Revision/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/palakv07/Leetcode-Revision/tree/master/0033-search-in-rotated-sorted-array) |
@@ -521,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/palakv07/Leetcode-Revision/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/palakv07/Leetcode-Revision/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
